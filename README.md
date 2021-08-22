@@ -1,0 +1,1 @@
+This is my solution to the book [Python Workout](https://www.manning.com/books/python-workout)
